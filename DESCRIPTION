@@ -1,0 +1,13 @@
+Package: YelpAPI
+Version: 0.01
+Date: 2016-04-09
+Title: YelpAPI
+Description: Function to use Yelp's search API.
+Author: Christoph Walsh
+Maintainer: Christoph Walsh <walshcb@bu.edu>
+Depends:
+    R (>= 2.15.0)
+Imports:
+    httr
+License: GPL-3
+URL: https://github.com/walshc/YelpAPI
